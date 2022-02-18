@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @janetegb
 - 👀 I’m interested in  aprender mais .
 - 🌱 I’m currently learning  Linguagem C# Orientada a  Objeto.
-- 💞️ I’m looking to collaborate on  para a empresa que me contratar a crescer.
+- 💞️ vou procurar colaborar para o crescimento da empresa que me contratar. 
 - 📫 How to reach me ? PELO WHATSAP:21986939773
 
 <!---
